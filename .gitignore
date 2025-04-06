@@ -1,0 +1,6 @@
+centroids_50k.npy
+centroids_100k.npy
+centroids_200k.npy
+embeddings_50k.npy
+embeddings_100k.npy
+embeddings_200k.npy
