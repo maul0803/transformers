@@ -1,0 +1,4 @@
+get_paragraphs executed in 0.9608 seconds
+get_embeddings executed in 1.4154 seconds
+get_centroids executed in 0.2593 seconds
+get_faiss_index_IVFFlat executed in 0.9371 seconds

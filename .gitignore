@@ -1,4 +1,4 @@
-centroids_*.npy
-embeddings_*.npy
-results_times_*.txt
-SAVE/
+SIMILARITY/centroids_*.npy
+SIMILARITY/embeddings_*.npy
+SIMILARITY/results_times_*.txt
+SIMILARITY/SAVE/
