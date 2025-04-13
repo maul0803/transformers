@@ -2,3 +2,5 @@ SIMILARITY/centroids_*.npy
 SIMILARITY/embeddings_*.npy
 SIMILARITY/results_times_*.txt
 SIMILARITY/SAVE/
+GRAPH_RAG_legacy/
+GRAPH_RAG/training_legacy.ipynb
